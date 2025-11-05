@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm a software engineer passionate about building scalable applications and exploring cutting-edge technologies. Here's a little about me:<br>🔭 I’m currently working on: Nest.js, Python, AWS, LLMs and computer vision services.<br>🌱 I’m currently learning: React and Next.js
+Hi there 👋<br>I'm a software engineer passionate about building scalable applications and exploring cutting-edge technologies. Here's a little about me:<br>🔭 I’m currently working on: Nest.js, Python, AWS, LLMs, Computer Vision, AI Image Generation, and Generative AI services.<br>🌱 I’m currently learning: Golang, Automation, Machine Learning systems.
 
 
 ## 🌐 Socials:
